@@ -97,11 +97,7 @@
                 
                 <div class="offcanvas-menu">
                 <span class="menu-close"><i class="fas fa-times"></i></span>
-              <form role="search" method="get" id="searchform"   class="searchform" action="http://wordpress.zcube.in/xconsulta/">
-                                <input type="text" name="s" id="search" value="" placeholder="Search"  />
-                                <button><i class="fa fa-search"></i></button>
-                            </form>
-
+            
                     <div id="cssmenu2" class="menu-one-page-menu-container">
                         <ul id="menu-one-page-menu-1" class="menu">
                             <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#home"><span>+60 12-322 0016</span></a></li>

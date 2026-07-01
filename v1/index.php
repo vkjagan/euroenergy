@@ -1,4 +1,8 @@
 <!-- Licensed to arputha.in 05/2/2023 -->
+
+<?php $start = microtime(true); ?>
+
+
 <!doctype html>
 <html lang="en">
    <!-- header -->
@@ -496,7 +500,7 @@
                               <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
                               <p>Euro Energy supported our jetty maintenance scope with clear planning, safe site coordination, and practical recommendations. Their team understood the marine environment and helped us complete the work with minimal disruption to daily operations.</p>
                               <div class="testi-author">
-                                 <img src="img/testimonial/client-marine-project-manager.png" alt="img">
+                                 <img src="img/testimonial/client-marine-project-manager.jpg" alt="img">
                                  <div class="ta-info">
                                     <h6>Ir. Ahmad Faizal</h6>
                                     <span>MARINE PROJECT MANAGER</span>
@@ -507,7 +511,7 @@
                               <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
                               <p>The silt curtain solution was well matched to our site conditions. Euro Energy helped us manage sediment movement during marine works and kept the project team aligned on deployment, inspection, and environmental control requirements.</p>
                               <div class="testi-author">
-                                 <img src="img/testimonial/client-environmental-consultant.png" alt="img">
+                                 <img src="img/testimonial/client-environmental-consultant.jpg" alt="img">
                                  <div class="ta-info">
                                     <h6>Lim Mei Ling</h6>
                                     <span>ENVIRONMENTAL CONSULTANT</span>
@@ -518,7 +522,7 @@
                               <div class="com-icon"><img src="img/bg/Icon_comment.png" alt="img"></div>
                               <p>We needed a responsive partner for jetty upgrading and related marine support works. Euro Energy was dependable, communicated clearly, and delivered solutions that balanced safety, timing, and long-term facility performance.</p>
                               <div class="testi-author">
-                                 <img src="img/testimonial/client-port-operations.png" alt="img">
+                                 <img src="img/testimonial/client-port-operations.jpg" alt="img">
                                  <div class="ta-info">
                                     <h6>Mohd Hafiz Rahman</h6>
                                     <span>PORT OPERATIONS SUPERVISOR</span>
@@ -527,9 +531,9 @@
                            </div>
                         </div>
                         <div class="slider slider-nav">
-                           <div class="testimonial-item"><img src="img/testimonial/client-marine-project-manager.png" alt="img"></div>
-                           <div class="testimonial-item"><img src="img/testimonial/client-environmental-consultant.png" alt="img"></div>
-                           <div class="testimonial-item"><img src="img/testimonial/client-port-operations.png" alt="img"></div>
+                           <div class="testimonial-item"><img src="img/testimonial/client-marine-project-manager.jpg" alt="img"></div>
+                           <div class="testimonial-item"><img src="img/testimonial/client-environmental-consultant.jpg" alt="img"></div>
+                           <div class="testimonial-item"><img src="img/testimonial/client-port-operations.jpg" alt="img"></div>
                         </div>
                      </div>
                   </div>
@@ -587,3 +591,10 @@
       <script src="js/main.js"></script>
    </body>
 </html>
+
+<?php 
+echo "<!-- Page generated in "
+     . round(microtime(true) - $start, 3)
+     . " seconds -->";
+	 
+	 ?>
