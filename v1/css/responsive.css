@@ -258,7 +258,7 @@
     margin-top: 0;
     line-height: inherit;
     padding: 0 10px;
-    width: 17%;
+    width: 47%;
 }
     
 .container-p {
@@ -714,11 +714,11 @@ border-bottom: none;
     width: 56%;
     height: 86px;
     top: 0;
-    left: -40px;
+    left: 13px;
 }
   .sticky-menu .mean-container a.meanmenu-reveal{
-        margin-top: -45px;
-    }
+    top: 18px !important;
+}	
 .down-arrow {
 	bottom: 20px;
 }
@@ -1188,4 +1188,62 @@ margin-top: 21px;
 	.cta-bg .cta-image {
 		height: 320px;
 	}
+}
+
+/* ==========================================================
+   Euro Energy - Mobile & Tablet Header Fix
+   ========================================================== */
+
+/* Mobile */
+@media only screen and (max-width: 767px) {
+
+    /* Logo */
+    .logo {
+        width: auto !important;
+        padding: 3px 5px 0px 6px!important;
+        margin: 0 !important;
+    }
+
+    .logo img {
+        display: block;
+        height: 40px !important;
+        width: auto !important;
+        max-width: none !important;
+    }
+
+    /* Hamburger */
+    .sticky-menu .mean-container a.meanmenu-reveal,
+    .mean-container a.meanmenu-reveal {
+        margin-top: -40px !important;
+        top: 0 !important;
+        right: 15px !important;
+    }
+
+}
+
+/* Tablet */
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    /* Logo */
+    .logo {
+        width: auto !important;
+        padding: 5px 5px !important;
+        margin: 0 !important;
+    }
+
+    .logo img {
+        display: block;
+        height: 38px !important;
+        width: auto !important;
+        max-width: none !important;
+		
+    }
+
+    /* Hamburger */
+    .sticky-menu .mean-container a.meanmenu-reveal,
+    .mean-container a.meanmenu-reveal {
+		margin-top: -50px !important;
+        right: 15px !important;
+    }
+
 }

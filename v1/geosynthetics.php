@@ -6,10 +6,16 @@
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-<title>Geosynthetics & Geotextile Manufacturing | Euro Energy Malaysia</title>
+<title>Geosynthetics & Geotextile Manufacturing Malaysia | Euro Energy</title>
 <meta name="keywords" content="Geotextile Manufacturer Malaysia, Geosynthetics Malaysia, Silt Curtain Manufacturer, Geo Bags, Geo Tubes, Dewatering Tubes, Coastal Protection, Erosion Control, Sediment Control, Euro Energy">
-<meta name="description" content="Euro Energy manufactures custom geosynthetic and geotextile products including silt curtains, geo bags and geo tubes for marine, civil and environmental engineering projects.">
+<meta name="description" content="Euro Energy manufactures custom, high-strength geosynthetic & geotextile products including silt curtains, geo bags, and geo tubes across Malaysia.">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Geosynthetics & Geotextile Manufacturing | Euro Energy Malaysia">
+<meta property="og:description" content="Custom-engineered geosynthetic products including silt curtains, geo bags, and geo tubes for marine, civil, and environmental engineering.">
+<meta property="og:url" content="https://www.euroenergy.com.my/geosynthetics.php">
+<meta property="og:image" content="https://www.euroenergy.com.my/img/services/geosynthetics/pet-filament-geotextile.jpg">
 
 <link rel="shortcut icon" href="img/euroenergy.ico">
 <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -61,69 +67,146 @@ protection, we deliver practical solutions that meet engineering requirements.
 <hr>
 
 <h3>Our Product Range</h3>
-
 <div class="row">
 
-<div class="col-md-4">
-<h4>Silt Curtains</h4>
-<p>
-Custom manufactured silt curtains for dredging, piling, reclamation and marine
-construction projects to control suspended sediments and improve environmental compliance.
-</p>
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 shadow-sm border-0 d-flex">
 
-<ul class="list-style-one">
-<li>Custom Sizes</li>
-<li>Marine Grade Materials</li>
-<li>Sediment Containment</li>
-<li>Easy Installation</li>
-</ul>
+            <img src="img/services/geosynthetics/hdpe-smooth-geomembrane.jpg"
+                 class="card-img-top"
+                 alt="Geomembrane Series"
+                 style="height:220px;object-fit:cover;">
 
-<a href="silt-curtain.php" class="btn ss-btn mt-2">Learn More</a>
+            <div class="card-body d-flex flex-column">
+
+                <h4>Geomembrane Series</h4>
+
+                <p>
+                    HDPE Smooth Geomembrane,
+                    LLDPE Geomembrane,
+                    HDPE Textured Geomembrane and
+                    Double-color HDPE Geomembrane.
+                </p>
+
+                <a href="geomembrane-series.php" class="btn ss-btn mt-auto">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 shadow-sm border-0 d-flex">
+
+            <img src="img/services/geosynthetics/pet-filament-geotextile.jpg"
+                 class="card-img-top"
+                 alt="Geotextile Series"
+                 style="height:220px;object-fit:cover;">
+
+            <div class="card-body d-flex flex-column">
+
+                <h4>Geotextile Series</h4>
+
+                <p>
+                    PET Filament Non-Woven Geotextile,
+                    PP/PET Needle Punched Geotextile and
+                    PP Woven Geotextile.
+                </p>
+
+                <a href="geotextile-series.php" class="btn ss-btn mt-auto">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 shadow-sm border-0 d-flex">
+
+            <img src="img/services/geosynthetics/composite-geomembrane.jpg"
+                 class="card-img-top"
+                 alt="Composite Geomembrane Series"
+                 style="height:220px;object-fit:cover;">
+
+            <div class="card-body d-flex flex-column">
+
+                <h4>Composite Geomembrane Series</h4>
+
+                <p>
+                    One Fabric One Membrane,
+                    Two Fabric One Membrane and
+                    Three Fabric Two Membrane.
+                </p>
+
+                <a href="composite-geomembrane-series.php" class="btn ss-btn mt-auto">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 shadow-sm border-0 d-flex">
+
+            <img src="img/services/geosynthetics/gcl-membrane.jpg"
+                 class="card-img-top"
+                 alt="GCL Series"
+                 style="height:220px;object-fit:cover;">
+
+            <div class="card-body d-flex flex-column">
+
+                <h4>GCL Series</h4>
+
+                <p>
+                    Geosynthetic Clay Liner (GCL),
+                    GCL with Membrane and
+                    Double-locking Edge GCL.
+                </p>
+
+                <a href="gcl-series.php" class="btn ss-btn mt-auto">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+        <div class="card h-100 shadow-sm border-0 d-flex">
+
+            <img src="img/services/geosynthetics/drainage-net.jpg"
+                 class="card-img-top"
+                 alt="Drainage Material Series"
+                 style="height:220px;object-fit:cover;">
+
+            <div class="card-body d-flex flex-column">
+
+                <h4>Drainage Material Series</h4>
+
+                <p>
+                    Geo-Composite Drainage Net,
+                    Drainage Board,
+                    Geogrid and
+                    Geocell.
+                </p>
+
+                <a href="drainage-material-series.php" class="btn ss-btn mt-auto">
+                    Learn More
+                </a>
+
+            </div>
+
+        </div>
+    </div>
 
 </div>
-
-<div class="col-md-4">
-
-<h4>Geo Bags</h4>
-
-<p>
-High-strength geo bags manufactured for erosion control, shoreline protection,
-riverbank stabilization and hydraulic engineering applications.
-</p>
-
-<ul class="list-style-one">
-<li>Custom Dimensions</li>
-<li>UV Resistant Fabric</li>
-<li>Coastal Protection</li>
-<li>Slope Stabilization</li>
-</ul>
-
-<a href="geo-bag.php" class="btn ss-btn mt-2">Learn More</a>
-
-</div>
-
-<div class="col-md-4">
-
-<h4>Geo Tubes</h4>
-
-<p>
-Large geotextile tubes designed for dewatering, sludge containment,
-shoreline protection and reclamation projects.
-</p>
-
-<ul class="list-style-one">
-<li>Dewatering</li>
-<li>Sludge Containment</li>
-<li>Reclamation</li>
-<li>Custom Manufacturing</li>
-</ul>
-
-<a href="geo-tube.php" class="btn ss-btn mt-2">Learn More</a>
-
-</div>
-
-</div>
-
 <hr>
 
 <h3>Applications</h3>
@@ -189,7 +272,7 @@ consultants and project owners complete projects safely, efficiently and
 cost-effectively.
 </p>
 
-<a href="contact.php" class="btn ss-btn mt-3">Request a Consultation</a>
+<a href="contact-us.php" class="btn ss-btn mt-3">Request a Consultation</a>
 
 </div>
 </div>
@@ -197,19 +280,16 @@ cost-effectively.
 </div>
 
 
- <!-- leftside -->
-              <div class="sidebar-side col-xl-3 col-lg-4 col-md-12 col-sm-12">
+ <div class="sidebar-side col-xl-3 col-lg-4 col-md-12 col-sm-12">
                     <aside class="sidebar services-sidebar">
                         
-                        <!-- Category Widget -->
                         <div class="sidebar-widget categories">
                             <div class="widget-content">
-                                <!-- Services Category -->
                                 <ul class="services-categories">
                                     <li><a href="services.php">Our Services</a></li>
-									<li><a href="marine-engineering">Marine Engineering</a></li>
-									<li class="active"><a href="geosynthetics">Geosynthetics</a></li>
-									<li><a href="scrap-metal-supply">Scrap &amp; Metal Supply</a></li>
+									<li><a href="marine-engineering.php">Marine Engineering</a></li>
+									<li class="active"><a href="geosynthetics.php">Geosynthetics</a></li>
+									<li><a href="scrap-metal-supply.php">Scrap &amp; Metal Supply</a></li>
 									
                                 </ul>
                             </div>
