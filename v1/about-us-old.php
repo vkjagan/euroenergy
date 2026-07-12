@@ -69,58 +69,60 @@
                             
                         </div>-->
 
-                        
                         <div class="content-box">
                             <h2>About Us</h2>
-
-<p>Established in <strong>2008</strong>, <strong>Euro Energy Sdn. Bhd.</strong> has grown into a trusted Malaysian engineering company delivering innovative solutions across the marine, infrastructure, industrial and environmental sectors. Through years of practical experience and successful project delivery, we have built a reputation for quality workmanship, technical excellence and reliable execution.</p>
-
-<p>Today, our business is focused on three core divisions:</p>
-
+							<p>
+							Founded in 2008 as EURO ENERGY SDN BHD, we have grown into a leading name in Malaysia’s marine infrastructure sector. Over the past decade, we’ve built a strong track record delivering large-scale marine construction projects-on time, safely, and reliably.
+							</p>
+<p>From our beginnings in drainage and irrigation, we evolved into pioneers in dredging and land reclamation. Today, we are specialists in end-to-end jetty solutions, </p>
+<p>including:
 <ul class="list-style-one">
-<li>Marine Structures &amp; Engineering</li>
-<li>Geosynthetics &amp; Geotextile Manufacturing</li>
-<li>Scrap Metal Trading &amp; Recycling</li>
+
+<li>Jetty design and redesign
+<li>Jetty upgrades and new construction
+<li>Structural restructuring and jacketing solutions
+<li>Concrete assessment and repair
+<li>Full-spectrum implementation of jetty infrastructure
 </ul>
+</p>
+<p>
+Our reputation is built on technical excellence, innovation, and consistent execution across complex marine environments. As one of the country’s key marine construction players, we combine deep industry expertise with rigorous project management to deliver durable, cost-effective outcomes for our clients.
+</p>
+<p>Euro Energy Sdn Bhd delivers end-to-end engineering, construction and supply solutions across marine, civil, geosynthetics, steel fabrication and scrap trading sectors. With a proven track record in Malaysia and an expanding global presence, we combine technical expertise, rigorous quality control and cost-effective delivery to meet complex project requirements.</p>
 
-<p>Our multidisciplinary team works closely with government agencies, consultants, contractors and private developers to provide practical engineering solutions that meet international quality and safety standards.</p>
+<p>Our jetty services cover upgrading, maintenance, repair, structural improvement, pile-related works, fender replacement, and mooring system support. We work with project owners, contractors, and consultants to help keep maritime facilities safe, functional, and ready for demanding marine operations.</p>
 
-<h3>Marine Structures &amp; Engineering</h3>
+<p>At Euro Energy, we believe that our success is driven by our commitment to excellence, and our ability to adapt and evolve with changing market trends. We strive to remain at the forefront of our industry by investing in research and development, and by keeping up-to-date with the latest technological advancements.</p>
 
-<p>Euro Energy is recognised for delivering comprehensive marine engineering solutions including jetty design, construction, rehabilitation and maintenance. Our expertise includes jetty upgrades, structural strengthening, pile jacketing, micro piling, concrete assessment and repair, fender replacement, mooring systems and complete marine infrastructure works.</p>
+<p>Our vision is to become a leading provider of engineering and energy solutions in the region, and to make a positive impact on the environment by promoting sustainable practices. We are committed to building strong relationships with our clients and partners, and to creating a positive and inclusive workplace culture for our employees.</p>
 
-<p>Every project is executed with careful planning, strict quality control and a strong commitment to safety, ensuring durable and cost-effective solutions for challenging marine environments.</p>
+														
+							<p>Euro Energy  takes on the role as a full fledge contractor to manage
+							small to big scale projects. We provide in house services of all trades pertaining to
+							geotechnical works and ground engineering for a project. Our inhouse specialist trades
+							for geotechnical works includes Foundation works, Retaining Wall, Ground
+							Improvement and Slope Stabilization.</p>
 
-<h3>Geosynthetics &amp; Geotextile Manufacturing</h3>
-
-<p>We manufacture and supply high-quality geosynthetic products that support infrastructure development, erosion control and environmental protection. Our product range includes Silt Curtains, Geotextiles, Geo Bags, Geo Tubes, Dewatering Tubes and other specialised geosynthetic solutions used in marine construction, coastal protection, river engineering and land reclamation projects.</p>
-
-<h3>Scrap Metal Trading &amp; Recycling</h3>
-
-<p>As part of our commitment to sustainable industrial development, Euro Energy is actively involved in scrap metal trading and recycling. We supply and process ferrous and non-ferrous metals while helping industries recover valuable resources through environmentally responsible practices.</p>
-
-<h3>Our Commitment</h3>
-
-<p>At Euro Energy, we believe every successful project begins with understanding our clients' requirements. By combining engineering expertise, innovation and efficient project management, we deliver reliable solutions that create long-term value. We remain committed to continuous improvement, sustainable practices and exceeding customer expectations in every project we undertake.</p>
-
+<p>In conclusion, Euro Energy is a company that is built on a foundation of expertise, innovation, and excellence. We are committed to providing our clients with the highest quality of service, and to making a positive impact on the environment through the provision of sustainable and innovative solutions.</p>
+							
+    
                             <!-- Two Column -->
-
                             <div class="two-column">
                                 <div class="row">
                                     
                                     <div class="text-column col-xl-6 col-lg-12 col-md-12">
                                         
                                         <ul class="list-style-one">
-<li>Established in 2008</li>
-<li>Marine Structures & Engineering Specialists</li>
-<li>Jetty Design, Construction & Rehabilitation</li>
-<li>Geosynthetics & Geotextile Manufacturing</li>
-<li>Silt Curtains, Geo Bags & Geo Tubes</li>
-<li>Scrap Metal Trading & Recycling</li>
-<li>Experienced Engineering & Project Management Team</li>
-<li>Committed to Safety, Quality & Sustainability</li>
-<li>Serving Marine, Infrastructure & Industrial Sectors</li>
-</ul>
+                                            <li>Founded in 2008</li>
+                                            <li>Provides engineering solutions to industries.</li>
+                                            <li>Committed to sustainability and environmental protection.</li>
+                                            <li>Experienced professionals provide high-quality products.</li>
+											<li>Global suppliers and partners offer cost-effective solutions.</li>
+											<li>ISO 9001:2015 certified for quality management.</li>
+											<li>Focused on customer satisfaction and exceeding expectations.</li>
+											<li>Explores new technologies and innovative solutions.</li>				
+											<li>Strong presence in Malaysia, expanding in Asia-Pacific.</li>
+                                        </ul>
                                     </div>
                                     <div class="image-column col-xl-6 col-lg-12 col-md-12">
                                         <figure class="image"><a href="custom/img/about-us.jpg" class="lightbox-image"><img src="custom/img/about-us.jpg" alt=""></a>About Us Euro Energy</figure>
